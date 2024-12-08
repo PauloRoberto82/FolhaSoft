@@ -1,0 +1,115 @@
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim\bin\Debug\projetoPim.exe.config
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim\bin\Debug\projetoPim.exe
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim\bin\Debug\projetoPim.pdb
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim\obj\Debug\projetoPim.csproj.AssemblyReference.cache
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim\obj\Debug\projetoPim.Properties.Resources.resources
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim\obj\Debug\projetoPim.csproj.GenerateResource.cache
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim\obj\Debug\projetoPim.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim\obj\Debug\projetoPim.exe
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim\obj\Debug\projetoPim.pdb
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim\obj\Debug\projetoPim.telaLogin.resources
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim\obj\Debug\projetoPim.telaInicio.resources
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim\obj\Debug\projetoPim.telaCadastro.resources
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim\obj\Debug\projetoPim.telaDadosEmpresa.resources
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim\obj\Debug\projetoPim.telaEncargosImpostos.resources
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim\obj\Debug\projetoPim.telaCadastroAlterar.resources
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim\obj\Debug\projetoPim.telaCadastroExcluir.resources
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim\obj\Debug\projetoPim.telaCadastroIncluir.resources
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim\obj\Debug\projetoPim.telaCargosBeneficios.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\webFolhaSoftware-desktop-stag\bin\Debug\projetoPim.exe.config
+C:\Users\pauli\OneDrive\Área de Trabalho\webFolhaSoftware-desktop-stag\bin\Debug\projetoPim.exe
+C:\Users\pauli\OneDrive\Área de Trabalho\webFolhaSoftware-desktop-stag\bin\Debug\projetoPim.pdb
+C:\Users\pauli\OneDrive\Área de Trabalho\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.csproj.AssemblyReference.cache
+C:\Users\pauli\OneDrive\Área de Trabalho\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.telaCadastro.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.telaCadastroAlterar.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.telaCadastroExcluir.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.telaCadastroIncluir.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.telaCargosBeneficios.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.telaDadosEmpresa.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.telaEncargosImpostos.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.telaLogin.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.Properties.Resources.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.telaInicio.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.csproj.GenerateResource.cache
+C:\Users\pauli\OneDrive\Área de Trabalho\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.csproj.CoreCompileInputs.cache
+C:\Users\pauli\OneDrive\Área de Trabalho\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.exe
+C:\Users\pauli\OneDrive\Área de Trabalho\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.pdb
+C:\Users\pauli\OneDrive\Área de Trabalho\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.telaHolerites.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.telaHoleritesAlterar.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.telaHoleritesExcluir.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.telaHoleritesIncluir.resources
+C:\Users\Pedro Mussolin\Documents\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.csproj.AssemblyReference.cache
+C:\Users\Pedro Mussolin\Documents\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.exe
+C:\Users\Pedro Mussolin\Documents\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.pdb
+C:\Users\Pedro Mussolin\Documents\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.telaCadastro.resources
+C:\Users\Pedro Mussolin\Documents\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.telaCadastroAlterar.resources
+C:\Users\Pedro Mussolin\Documents\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.telaCadastroExcluir.resources
+C:\Users\Pedro Mussolin\Documents\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.telaCadastroIncluir.resources
+C:\Users\Pedro Mussolin\Documents\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.telaCargosBeneficios.resources
+C:\Users\Pedro Mussolin\Documents\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.telaDadosEmpresa.resources
+C:\Users\Pedro Mussolin\Documents\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.telaEncargosImpostos.resources
+C:\Users\Pedro Mussolin\Documents\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.telaHolerites.resources
+C:\Users\Pedro Mussolin\Documents\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.Properties.Resources.resources
+C:\Users\Pedro Mussolin\Documents\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.telaInicio.resources
+C:\Users\Pedro Mussolin\Documents\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.csproj.GenerateResource.cache
+C:\Users\Pedro Mussolin\Documents\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Mussolin\Documents\webFolhaSoftware-desktop-stag\bin\Debug\projetoPim.exe.config
+C:\Users\Pedro Mussolin\Documents\webFolhaSoftware-desktop-stag\bin\Debug\projetoPim.exe
+C:\Users\Pedro Mussolin\Documents\webFolhaSoftware-desktop-stag\bin\Debug\projetoPim.pdb
+C:\Users\Pedro Mussolin\Documents\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.telaLogin.resources
+C:\Users\Pedro Mussolin\Documents\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.telaCadastroListar.resources
+C:\Users\Pedro Mussolin\Documents\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.telaPagamentoIncluir.resources
+C:\Users\Pedro Mussolin\Documents\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.telaPagamentoAlterar.resources
+C:\Users\Pedro Mussolin\Documents\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.telaPagamentoExcluir.resources
+C:\Users\Pedro Mussolin\Documents\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.telaFolhaPagamento.resources
+C:\Users\Pedro Mussolin\Documents\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.telaPagamentoListar.resources
+C:\Users\jeana\OneDrive\Área de Trabalho\webFolhaSoftware-desktop-stag\bin\Debug\projetoPim.exe.config
+C:\Users\jeana\OneDrive\Área de Trabalho\webFolhaSoftware-desktop-stag\bin\Debug\projetoPim.exe
+C:\Users\jeana\OneDrive\Área de Trabalho\webFolhaSoftware-desktop-stag\bin\Debug\projetoPim.pdb
+C:\Users\jeana\OneDrive\Área de Trabalho\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.csproj.AssemblyReference.cache
+C:\Users\jeana\OneDrive\Área de Trabalho\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.telaCadastro.resources
+C:\Users\jeana\OneDrive\Área de Trabalho\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.telaCadastroAlterar.resources
+C:\Users\jeana\OneDrive\Área de Trabalho\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.telaCadastroExcluir.resources
+C:\Users\jeana\OneDrive\Área de Trabalho\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.telaCadastroIncluir.resources
+C:\Users\jeana\OneDrive\Área de Trabalho\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.telaCadastroListar.resources
+C:\Users\jeana\OneDrive\Área de Trabalho\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.telaCargosBeneficios.resources
+C:\Users\jeana\OneDrive\Área de Trabalho\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.telaDadosEmpresa.resources
+C:\Users\jeana\OneDrive\Área de Trabalho\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.telaEncargosImpostos.resources
+C:\Users\jeana\OneDrive\Área de Trabalho\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.telaFolhaPagamento.resources
+C:\Users\jeana\OneDrive\Área de Trabalho\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.telaPagamentoIncluir.resources
+C:\Users\jeana\OneDrive\Área de Trabalho\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.telaHolerites.resources
+C:\Users\jeana\OneDrive\Área de Trabalho\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.telaPagamentoAlterar.resources
+C:\Users\jeana\OneDrive\Área de Trabalho\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.telaPagamentoExcluir.resources
+C:\Users\jeana\OneDrive\Área de Trabalho\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.Properties.Resources.resources
+C:\Users\jeana\OneDrive\Área de Trabalho\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.telaInicio.resources
+C:\Users\jeana\OneDrive\Área de Trabalho\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.telaLogin.resources
+C:\Users\jeana\OneDrive\Área de Trabalho\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.telaPagamentoListar.resources
+C:\Users\jeana\OneDrive\Área de Trabalho\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.csproj.GenerateResource.cache
+C:\Users\jeana\OneDrive\Área de Trabalho\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.csproj.CoreCompileInputs.cache
+C:\Users\jeana\OneDrive\Área de Trabalho\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.exe
+C:\Users\jeana\OneDrive\Área de Trabalho\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.pdb
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaDesktop\webFolhaSoftware-desktop-stag\bin\Debug\projetoPim.exe.config
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaDesktop\webFolhaSoftware-desktop-stag\bin\Debug\projetoPim.exe
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaDesktop\webFolhaSoftware-desktop-stag\bin\Debug\projetoPim.pdb
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaDesktop\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.csproj.AssemblyReference.cache
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaDesktop\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.telaCadastro.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaDesktop\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.telaCadastroAlterar.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaDesktop\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.telaCadastroExcluir.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaDesktop\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.telaCadastroIncluir.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaDesktop\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.telaCadastroListar.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaDesktop\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.telaCargosBeneficios.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaDesktop\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.telaDadosEmpresa.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaDesktop\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.telaEncargosImpostos.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaDesktop\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.telaFolhaPagamento.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaDesktop\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.telaPagamentoIncluir.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaDesktop\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.telaHolerites.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaDesktop\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.telaPagamentoAlterar.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaDesktop\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.telaPagamentoExcluir.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaDesktop\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.Properties.Resources.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaDesktop\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.telaInicio.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaDesktop\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.telaLogin.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaDesktop\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.telaPagamentoListar.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaDesktop\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.csproj.GenerateResource.cache
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaDesktop\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.csproj.CoreCompileInputs.cache
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaDesktop\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.exe
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaDesktop\webFolhaSoftware-desktop-stag\obj\Debug\projetoPim.pdb

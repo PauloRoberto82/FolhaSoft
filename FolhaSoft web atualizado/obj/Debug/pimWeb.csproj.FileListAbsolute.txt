@@ -1,0 +1,375 @@
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\pimWeb.dll.config
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\pimWeb.dll
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\pimWeb.pdb
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\roslyn\csc.exe
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\roslyn\csc.exe.config
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\roslyn\csc.rsp
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\roslyn\csi.exe
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\roslyn\csi.exe.config
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\roslyn\csi.rsp
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\roslyn\System.AppContext.dll
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\roslyn\System.Console.dll
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\roslyn\System.IO.Compression.dll
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\roslyn\System.Net.Http.dll
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\roslyn\System.ValueTuple.dll
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\roslyn\vbc.exe
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\roslyn\vbc.exe.config
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\roslyn\vbc.rsp
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\Antlr3.Runtime.dll
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\Newtonsoft.Json.dll
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\System.Web.Optimization.dll
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\WebGrease.dll
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\System.Web.Optimization.xml
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\Newtonsoft.Json.xml
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\Antlr3.Runtime.pdb
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\bin\pt-br\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\obj\Debug\pimWeb.csproj.AssemblyReference.cache
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\obj\Debug\pimWeb.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\obj\Debug\pimWeb.csproj.CopyComplete
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\obj\Debug\pimWeb.dll
+C:\Users\Pedro Mussolin\Documents\Arquivos Pessoais\arquivos pim\projetoPim - Folha Software\teste(correto)\obj\Debug\pimWeb.pdb
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\pimWeb.dll.config
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\pimWeb.dll
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\pimWeb.pdb
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\roslyn\csc.exe
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\roslyn\csc.exe.config
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\roslyn\csc.rsp
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\roslyn\csi.exe
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\roslyn\csi.exe.config
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\roslyn\csi.rsp
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\roslyn\System.AppContext.dll
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\roslyn\System.Console.dll
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\roslyn\System.IO.Compression.dll
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\roslyn\System.Net.Http.dll
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\roslyn\System.ValueTuple.dll
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\roslyn\vbc.exe
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\roslyn\vbc.exe.config
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\roslyn\vbc.rsp
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\Antlr3.Runtime.dll
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\Newtonsoft.Json.dll
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\System.Web.Optimization.dll
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\WebGrease.dll
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\System.Web.Optimization.xml
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\Newtonsoft.Json.xml
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\Antlr3.Runtime.pdb
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\bin\pt-br\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\obj\Debug\pimWeb.csproj.AssemblyReference.cache
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\obj\Debug\pimWeb.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\obj\Debug\pimWeb.csproj.CopyComplete
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\obj\Debug\pimWeb.dll
+C:\Users\Pedro Mussolin\Desktop\webFolhaSoftware-desktop-stag\obj\Debug\pimWeb.pdb
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\pimWeb.dll.config
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\pimWeb.dll
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\pimWeb.pdb
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\roslyn\csc.exe
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\roslyn\csc.exe.config
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\roslyn\csc.rsp
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\roslyn\csi.exe
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\roslyn\csi.exe.config
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\roslyn\csi.rsp
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\roslyn\System.AppContext.dll
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\roslyn\System.Console.dll
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\roslyn\System.IO.Compression.dll
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\roslyn\System.Net.Http.dll
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\roslyn\System.Net.Sockets.dll
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\roslyn\System.ValueTuple.dll
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\roslyn\vbc.exe
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\roslyn\vbc.exe.config
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\roslyn\vbc.rsp
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\roslyn\VBCSCompiler.exe
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\Antlr3.Runtime.dll
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\Newtonsoft.Json.dll
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\System.Web.Optimization.dll
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\WebGrease.dll
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\System.Web.Optimization.xml
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\Newtonsoft.Json.xml
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\Antlr3.Runtime.pdb
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\bin\pt-br\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\obj\Debug\pimWeb.csproj.AssemblyReference.cache
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\obj\Debug\pimWeb.csproj.CoreCompileInputs.cache
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\obj\Debug\pimWeb.csproj.CopyComplete
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\obj\Debug\pimWeb.dll
+C:\Users\jeana\Downloads\webFolhaSoftware-desktop-stag\obj\Debug\pimWeb.pdb
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\pimWeb.dll.config
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\pimWeb.dll
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\pimWeb.pdb
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\roslyn\csc.exe
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\roslyn\csc.exe.config
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\roslyn\csc.rsp
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\roslyn\csi.exe
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\roslyn\csi.exe.config
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\roslyn\csi.rsp
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\roslyn\System.AppContext.dll
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\roslyn\System.Console.dll
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\roslyn\System.IO.Compression.dll
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\roslyn\System.Net.Http.dll
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\roslyn\System.Net.Sockets.dll
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\roslyn\System.ValueTuple.dll
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\roslyn\vbc.exe
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\roslyn\vbc.exe.config
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\roslyn\vbc.rsp
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\roslyn\VBCSCompiler.exe
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\Antlr3.Runtime.dll
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\Newtonsoft.Json.dll
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\System.Web.Optimization.dll
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\WebGrease.dll
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\System.Web.Optimization.xml
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\Newtonsoft.Json.xml
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\Antlr3.Runtime.pdb
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\bin\pt-br\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\obj\Debug\pimWeb.csproj.AssemblyReference.cache
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\obj\Debug\pimWeb.csproj.CoreCompileInputs.cache
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\obj\Debug\pimWeb.csproj.CopyComplete
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\obj\Debug\pimWeb.dll
+C:\Users\jeana\OneDrive\Área de Trabalho\FolhaSoft web atualizado\obj\Debug\pimWeb.pdb
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\pimWeb.dll.config
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\pimWeb.dll
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\pimWeb.pdb
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\roslyn\csc.exe
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\roslyn\csc.exe.config
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\roslyn\csc.rsp
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\roslyn\csi.exe
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\roslyn\csi.exe.config
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\roslyn\csi.rsp
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\roslyn\System.AppContext.dll
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\roslyn\System.Console.dll
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\roslyn\System.IO.Compression.dll
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\roslyn\System.Net.Http.dll
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\roslyn\System.Net.Sockets.dll
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\roslyn\System.ValueTuple.dll
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\roslyn\vbc.exe
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\roslyn\vbc.exe.config
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\roslyn\vbc.rsp
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\roslyn\VBCSCompiler.exe
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\Antlr3.Runtime.dll
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\Newtonsoft.Json.dll
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\System.Web.Optimization.dll
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\WebGrease.dll
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\System.Web.Optimization.xml
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\Newtonsoft.Json.xml
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\Antlr3.Runtime.pdb
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\bin\pt-br\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\obj\Debug\pimWeb.csproj.AssemblyReference.cache
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\obj\Debug\pimWeb.csproj.CoreCompileInputs.cache
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\obj\Debug\pimWeb.csproj.CopyComplete
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\obj\Debug\pimWeb.dll
+C:\Users\jeana\OneDrive\Documentos\FACULDADE\4° Semestre\FolhaSoft\FolhaSoft web atualizado\obj\Debug\pimWeb.pdb

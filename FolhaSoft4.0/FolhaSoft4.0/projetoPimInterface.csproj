@@ -1,0 +1,271 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{33D576C6-1FCA-4ACC-AAFE-ECA88344C965}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>projetoPim</RootNamespace>
+    <AssemblyName>projetoPim</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="projetoPIMDataSet.cs">
+      <DependentUpon>projetoPIMDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="telaPagamentosListar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telaPagamentosListar.Designer.cs">
+      <DependentUpon>telaPagamentosListar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="projetoPIMDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>projetoPIMDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="projetoPIMDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>projetoPIMDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\telaCadastro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resources\telaCadastro.Designer.cs">
+      <DependentUpon>telaCadastro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="telaCadastro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telaCadastro.Designer.cs">
+      <DependentUpon>telaCadastro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="telaCadastroAlterar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telaCadastroAlterar.Designer.cs">
+      <DependentUpon>telaCadastroAlterar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="telaCadastroExcluir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telaCadastroExcluir.Designer.cs">
+      <DependentUpon>telaCadastroExcluir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="telaCadastroIncluir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telaCadastroIncluir.Designer.cs">
+      <DependentUpon>telaCadastroIncluir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="telaCadastroListar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telaCadastroListar.Designer.cs">
+      <DependentUpon>telaCadastroListar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="telaCargosBeneficios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telaCargosBeneficios.Designer.cs">
+      <DependentUpon>telaCargosBeneficios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="telaDadosEmpresa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telaDadosEmpresa.Designer.cs">
+      <DependentUpon>telaDadosEmpresa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="telaEncargosImpostos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telaEncargosImpostos.Designer.cs">
+      <DependentUpon>telaEncargosImpostos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="telaFolhaPagamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telaFolhaPagamento.Designer.cs">
+      <DependentUpon>telaFolhaPagamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="telaPagamentoIncluir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telaPagamentoIncluir.Designer.cs">
+      <DependentUpon>telaPagamentoIncluir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="telaHolerites.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telaHolerites.Designer.cs">
+      <DependentUpon>telaHolerites.cs</DependentUpon>
+    </Compile>
+    <Compile Include="telaPagamentoAlterar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telaPagamentoAlterar.Designer.cs">
+      <DependentUpon>telaPagamentoAlterar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="telaPagamentoExcluir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telaPagamentoExcluir.Designer.cs">
+      <DependentUpon>telaPagamentoExcluir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="telaInicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telaInicio.Designer.cs">
+      <DependentUpon>telaInicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="telaLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telaLogin.Designer.cs">
+      <DependentUpon>telaLogin.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="telaPagamentosListar.resx">
+      <DependentUpon>telaPagamentosListar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="telaCadastro.resx">
+      <DependentUpon>telaCadastro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="telaCadastroAlterar.resx">
+      <DependentUpon>telaCadastroAlterar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="telaCadastroExcluir.resx">
+      <DependentUpon>telaCadastroExcluir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="telaCadastroIncluir.resx">
+      <DependentUpon>telaCadastroIncluir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="telaCadastroListar.resx">
+      <DependentUpon>telaCadastroListar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="telaCargosBeneficios.resx">
+      <DependentUpon>telaCargosBeneficios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="telaDadosEmpresa.resx">
+      <DependentUpon>telaDadosEmpresa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="telaEncargosImpostos.resx">
+      <DependentUpon>telaEncargosImpostos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="telaFolhaPagamento.resx">
+      <DependentUpon>telaFolhaPagamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="telaPagamentoIncluir.resx">
+      <DependentUpon>telaPagamentoIncluir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="telaHolerites.resx">
+      <DependentUpon>telaHolerites.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="telaPagamentoAlterar.resx">
+      <DependentUpon>telaPagamentoAlterar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="telaPagamentoExcluir.resx">
+      <DependentUpon>telaPagamentoExcluir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="telaInicio.resx">
+      <DependentUpon>telaInicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="telaLogin.resx">
+      <DependentUpon>telaLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="projetoPIMDataSet.xsc">
+      <DependentUpon>projetoPIMDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="projetoPIMDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>projetoPIMDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="projetoPIMDataSet.xss">
+      <DependentUpon>projetoPIMDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="projetoPIMDataSet1.xsc">
+      <DependentUpon>projetoPIMDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="projetoPIMDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>projetoPIMDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="projetoPIMDataSet1.xss">
+      <DependentUpon>projetoPIMDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fundoTelaLogin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\FolhaSoft3.png" />
+    <Content Include="Resources\icons8-desligar-64.png" />
+    <Content Include="Resources\icons8-pessoa-do-sexo-masculino-40.png" />
+    <Content Include="Resources\icons8-pessoa-do-sexo-masculino-80.png" />
+    <Content Include="Resources\NOVOLogorditado.bmp" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

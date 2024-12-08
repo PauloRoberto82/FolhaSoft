@@ -1,0 +1,100 @@
+C:\Users\jeana\Downloads\FolhaDesktopInter\bin\Debug\projetoPim.exe.config
+C:\Users\jeana\Downloads\FolhaDesktopInter\bin\Debug\projetoPim.exe
+C:\Users\jeana\Downloads\FolhaDesktopInter\bin\Debug\projetoPim.pdb
+C:\Users\jeana\Downloads\FolhaDesktopInter\obj\Debug\projetoPimInterface.csproj.AssemblyReference.cache
+C:\Users\jeana\Downloads\FolhaDesktopInter\obj\Debug\projetoPim.telaPagamentoListar.resources
+C:\Users\jeana\Downloads\FolhaDesktopInter\obj\Debug\projetoPim.telaCadastro.resources
+C:\Users\jeana\Downloads\FolhaDesktopInter\obj\Debug\projetoPim.telaCadastroAlterar.resources
+C:\Users\jeana\Downloads\FolhaDesktopInter\obj\Debug\projetoPim.telaCadastroExcluir.resources
+C:\Users\jeana\Downloads\FolhaDesktopInter\obj\Debug\projetoPim.telaCadastroIncluir.resources
+C:\Users\jeana\Downloads\FolhaDesktopInter\obj\Debug\projetoPim.telaCadastroListar.resources
+C:\Users\jeana\Downloads\FolhaDesktopInter\obj\Debug\projetoPim.telaCargosBeneficios.resources
+C:\Users\jeana\Downloads\FolhaDesktopInter\obj\Debug\projetoPim.telaDadosEmpresa.resources
+C:\Users\jeana\Downloads\FolhaDesktopInter\obj\Debug\projetoPim.telaEncargosImpostos.resources
+C:\Users\jeana\Downloads\FolhaDesktopInter\obj\Debug\projetoPim.telaFolhaPagamento.resources
+C:\Users\jeana\Downloads\FolhaDesktopInter\obj\Debug\projetoPim.telaPagamentoIncluir.resources
+C:\Users\jeana\Downloads\FolhaDesktopInter\obj\Debug\projetoPim.telaHolerites.resources
+C:\Users\jeana\Downloads\FolhaDesktopInter\obj\Debug\projetoPim.telaPagamentoAlterar.resources
+C:\Users\jeana\Downloads\FolhaDesktopInter\obj\Debug\projetoPim.telaPagamentoExcluir.resources
+C:\Users\jeana\Downloads\FolhaDesktopInter\obj\Debug\projetoPim.Properties.Resources.resources
+C:\Users\jeana\Downloads\FolhaDesktopInter\obj\Debug\projetoPim.telaInicio.resources
+C:\Users\jeana\Downloads\FolhaDesktopInter\obj\Debug\projetoPim.telaLogin.resources
+C:\Users\jeana\Downloads\FolhaDesktopInter\obj\Debug\projetoPimInterface.csproj.GenerateResource.cache
+C:\Users\jeana\Downloads\FolhaDesktopInter\obj\Debug\projetoPimInterface.csproj.CoreCompileInputs.cache
+C:\Users\jeana\Downloads\FolhaDesktopInter\obj\Debug\projetoPim.exe
+C:\Users\jeana\Downloads\FolhaDesktopInter\obj\Debug\projetoPim.pdb
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaDesktopInter\bin\Debug\projetoPim.exe.config
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaDesktopInter\bin\Debug\projetoPim.exe
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaDesktopInter\bin\Debug\projetoPim.pdb
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaDesktopInter\obj\Debug\projetoPimInterface.csproj.AssemblyReference.cache
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaDesktopInter\obj\Debug\projetoPim.telaPagamentoListar.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaDesktopInter\obj\Debug\projetoPim.telaCadastro.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaDesktopInter\obj\Debug\projetoPim.telaCadastroAlterar.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaDesktopInter\obj\Debug\projetoPim.telaCadastroExcluir.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaDesktopInter\obj\Debug\projetoPim.telaCadastroIncluir.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaDesktopInter\obj\Debug\projetoPim.telaCadastroListar.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaDesktopInter\obj\Debug\projetoPim.telaCargosBeneficios.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaDesktopInter\obj\Debug\projetoPim.telaDadosEmpresa.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaDesktopInter\obj\Debug\projetoPim.telaEncargosImpostos.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaDesktopInter\obj\Debug\projetoPim.telaFolhaPagamento.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaDesktopInter\obj\Debug\projetoPim.telaPagamentoIncluir.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaDesktopInter\obj\Debug\projetoPim.telaHolerites.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaDesktopInter\obj\Debug\projetoPim.telaPagamentoAlterar.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaDesktopInter\obj\Debug\projetoPim.telaPagamentoExcluir.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaDesktopInter\obj\Debug\projetoPim.Properties.Resources.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaDesktopInter\obj\Debug\projetoPim.telaInicio.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaDesktopInter\obj\Debug\projetoPim.telaLogin.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaDesktopInter\obj\Debug\projetoPimInterface.csproj.GenerateResource.cache
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaDesktopInter\obj\Debug\projetoPimInterface.csproj.CoreCompileInputs.cache
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaDesktopInter\obj\Debug\projetoPim.exe
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaDesktopInter\obj\Debug\projetoPim.pdb
+C:\Users\jeana\Downloads\FolhaSoft4.0\bin\Debug\projetoPim.exe.config
+C:\Users\jeana\Downloads\FolhaSoft4.0\bin\Debug\projetoPim.exe
+C:\Users\jeana\Downloads\FolhaSoft4.0\bin\Debug\projetoPim.pdb
+C:\Users\jeana\Downloads\FolhaSoft4.0\obj\Debug\projetoPimInterface.csproj.AssemblyReference.cache
+C:\Users\jeana\Downloads\FolhaSoft4.0\obj\Debug\projetoPim.telaPagamentoListar.resources
+C:\Users\jeana\Downloads\FolhaSoft4.0\obj\Debug\projetoPim.telaCadastro.resources
+C:\Users\jeana\Downloads\FolhaSoft4.0\obj\Debug\projetoPim.telaCadastroAlterar.resources
+C:\Users\jeana\Downloads\FolhaSoft4.0\obj\Debug\projetoPim.telaCadastroExcluir.resources
+C:\Users\jeana\Downloads\FolhaSoft4.0\obj\Debug\projetoPim.telaCadastroIncluir.resources
+C:\Users\jeana\Downloads\FolhaSoft4.0\obj\Debug\projetoPim.telaCadastroListar.resources
+C:\Users\jeana\Downloads\FolhaSoft4.0\obj\Debug\projetoPim.telaCargosBeneficios.resources
+C:\Users\jeana\Downloads\FolhaSoft4.0\obj\Debug\projetoPim.telaDadosEmpresa.resources
+C:\Users\jeana\Downloads\FolhaSoft4.0\obj\Debug\projetoPim.telaEncargosImpostos.resources
+C:\Users\jeana\Downloads\FolhaSoft4.0\obj\Debug\projetoPim.telaFolhaPagamento.resources
+C:\Users\jeana\Downloads\FolhaSoft4.0\obj\Debug\projetoPim.telaPagamentoIncluir.resources
+C:\Users\jeana\Downloads\FolhaSoft4.0\obj\Debug\projetoPim.telaHolerites.resources
+C:\Users\jeana\Downloads\FolhaSoft4.0\obj\Debug\projetoPim.telaPagamentoAlterar.resources
+C:\Users\jeana\Downloads\FolhaSoft4.0\obj\Debug\projetoPim.telaPagamentoExcluir.resources
+C:\Users\jeana\Downloads\FolhaSoft4.0\obj\Debug\projetoPim.Properties.Resources.resources
+C:\Users\jeana\Downloads\FolhaSoft4.0\obj\Debug\projetoPim.telaInicio.resources
+C:\Users\jeana\Downloads\FolhaSoft4.0\obj\Debug\projetoPim.telaLogin.resources
+C:\Users\jeana\Downloads\FolhaSoft4.0\obj\Debug\projetoPimInterface.csproj.GenerateResource.cache
+C:\Users\jeana\Downloads\FolhaSoft4.0\obj\Debug\projetoPimInterface.csproj.CoreCompileInputs.cache
+C:\Users\jeana\Downloads\FolhaSoft4.0\obj\Debug\projetoPim.exe
+C:\Users\jeana\Downloads\FolhaSoft4.0\obj\Debug\projetoPim.pdb
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaSoft4.0\FolhaSoft4.0\bin\Debug\projetoPim.exe.config
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaSoft4.0\FolhaSoft4.0\bin\Debug\projetoPim.exe
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaSoft4.0\FolhaSoft4.0\bin\Debug\projetoPim.pdb
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaSoft4.0\FolhaSoft4.0\obj\Debug\projetoPimInterface.csproj.AssemblyReference.cache
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaSoft4.0\FolhaSoft4.0\obj\Debug\projetoPim.telaPagamentoListar.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaSoft4.0\FolhaSoft4.0\obj\Debug\projetoPim.telaCadastro.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaSoft4.0\FolhaSoft4.0\obj\Debug\projetoPim.telaCadastroAlterar.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaSoft4.0\FolhaSoft4.0\obj\Debug\projetoPim.telaCadastroExcluir.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaSoft4.0\FolhaSoft4.0\obj\Debug\projetoPim.telaCadastroIncluir.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaSoft4.0\FolhaSoft4.0\obj\Debug\projetoPim.telaCadastroListar.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaSoft4.0\FolhaSoft4.0\obj\Debug\projetoPim.telaCargosBeneficios.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaSoft4.0\FolhaSoft4.0\obj\Debug\projetoPim.telaDadosEmpresa.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaSoft4.0\FolhaSoft4.0\obj\Debug\projetoPim.telaEncargosImpostos.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaSoft4.0\FolhaSoft4.0\obj\Debug\projetoPim.telaFolhaPagamento.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaSoft4.0\FolhaSoft4.0\obj\Debug\projetoPim.telaPagamentoIncluir.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaSoft4.0\FolhaSoft4.0\obj\Debug\projetoPim.telaHolerites.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaSoft4.0\FolhaSoft4.0\obj\Debug\projetoPim.telaPagamentoAlterar.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaSoft4.0\FolhaSoft4.0\obj\Debug\projetoPim.telaPagamentoExcluir.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaSoft4.0\FolhaSoft4.0\obj\Debug\projetoPim.Properties.Resources.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaSoft4.0\FolhaSoft4.0\obj\Debug\projetoPim.telaInicio.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaSoft4.0\FolhaSoft4.0\obj\Debug\projetoPim.telaLogin.resources
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaSoft4.0\FolhaSoft4.0\obj\Debug\projetoPimInterface.csproj.GenerateResource.cache
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaSoft4.0\FolhaSoft4.0\obj\Debug\projetoPimInterface.csproj.CoreCompileInputs.cache
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaSoft4.0\FolhaSoft4.0\obj\Debug\projetoPim.exe
+C:\Users\pauli\OneDrive\Área de Trabalho\FolhaSoft4.0\FolhaSoft4.0\obj\Debug\projetoPim.pdb

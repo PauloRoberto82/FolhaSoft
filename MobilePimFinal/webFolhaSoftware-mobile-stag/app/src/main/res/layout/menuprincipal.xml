@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/buttonSair"
+        android:layout_width="283dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="492dp"
+        android:backgroundTint="@color/folhablue"
+        android:onClick="Voltar"
+        android:text="Sair"
+        android:textAllCaps="false"
+        android:textColor="#FFFFFF"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:toggleCheckedStateOnClick="false" />
+
+    <Button
+        android:id="@+id/buttonFaleComORH"
+        android:layout_width="283dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="436dp"
+        android:backgroundTint="@color/folhablue"
+        android:onClick="FaleComRh"
+        android:text="Fale Conosco"
+        android:textAllCaps="false"
+        android:textColor="#FFFFFF"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:toggleCheckedStateOnClick="false" />
+
+    <Button
+        android:id="@+id/buttonDados"
+        android:layout_width="283dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="380dp"
+        android:backgroundTint="@color/folhablue"
+        android:onClick="Dados"
+        android:text="Dados do Funcionario"
+        android:textAllCaps="false"
+        android:textColor="#FFFFFF"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:toggleCheckedStateOnClick="false" />
+
+    <Button
+        android:id="@+id/buttonAvisosENotificacoes"
+        android:layout_width="283dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="324dp"
+        android:backgroundTint="@color/folhablue"
+        android:onClick="Avisos"
+        android:text="Dados da Empresa"
+        android:textAllCaps="false"
+        android:textColor="#FFFFFF"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:toggleCheckedStateOnClick="false" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="75dp"
+        android:layout_height="78dp"
+        android:layout_marginTop="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.047"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/baseline_person_24"
+        tools:srcCompat="@drawable/baseline_person_24" />
+
+    <TextView
+        android:id="@+id/BemVindo"
+        android:layout_width="158dp"
+        android:layout_height="27dp"
+        android:layout_marginTop="16dp"
+        android:text="Bem Vindo!"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.399"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/nomeColaborador"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:textAllCaps="false"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/imageView"
+        app:layout_constraintTop_toBottomOf="@+id/BemVindo" />
+
+    <TextView
+        android:id="@+id/emailUsuario"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:textSize="12sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/imageView"
+        app:layout_constraintTop_toBottomOf="@+id/nomeColaborador" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="121dp"
+        android:layout_height="122dp"
+        android:layout_marginTop="120dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/folhasofticone" />
+
+    <Button
+        android:id="@+id/buttonHolerite"
+        android:layout_width="283dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="268dp"
+        android:backgroundTint="@color/folhablue"
+        android:onClick="Holerite"
+        android:text="Holerites"
+        android:textAllCaps="false"
+        android:textColor="#FFFFFF"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:toggleCheckedStateOnClick="false" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Versão Beta 1.0.1"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.993" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
